@@ -113,7 +113,7 @@ The pipeline uses `TRUNCATE TABLE ... CASCADE` to safely refresh parent-child ta
 
 Below is the relational schema for the project:
 
-![Database Schema](assets/schema_diagram.png)
+assets/supabase-schema.png
 
 The diagram highlights:
 - Primary keys
