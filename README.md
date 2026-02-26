@@ -109,19 +109,17 @@ The pipeline uses `TRUNCATE TABLE ... CASCADE` to safely refresh parent-child ta
 - Safe database transaction handling using context managers
 
 ---
+## 🗺 Database Schema
 
-## 🚀 How to Run
+Below is the relational schema for the project:
 
-1. Install dependencies:
+![Database Schema](assets/schema_diagram.png)
 
-```bash
-pip install -r requirements.txt
-```
-
-2. Update the PostgreSQL connection string in the notebook.
-
-3. Run the notebook cells in order.
-
+The diagram highlights:
+- Primary keys
+- Foreign key relationships
+- Column data types
+- Parent-child table structure
 ---
 
 ## 📂 Project Structure
