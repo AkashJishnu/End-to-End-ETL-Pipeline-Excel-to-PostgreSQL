@@ -1,6 +1,7 @@
 # 📊 End-to-End ETL Pipeline: Excel to PostgreSQL
 
 ## 📌 Project Overview
+⭐ Built as part of my Data Engineering learning journey.
 
 This project demonstrates a structured **ETL (Extract, Transform, Load)** pipeline built using **Python (Pandas)** and **PostgreSQL (Supabase)**.
 
